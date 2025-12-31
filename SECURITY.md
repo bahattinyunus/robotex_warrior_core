@@ -1,25 +1,25 @@
-# Security Policy
+# Güvenlik Politikası
 
-## Supported Versions
+## Desteklenen Sürümler
 
-The following versions of Robotex Warrior Core are currently being supported with security updates.
+Robotex Warrior Core'un aşağıdaki sürümleri şu anda güvenlik güncellemeleriyle desteklenmektedir.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.0.x   | :white_check_mark: |
-| < 1.0   | :x:                |
+| Sürüm | Destekleniyor      |
+| ----- | ------------------ |
+| 1.0.x | :white_check_mark: |
+| < 1.0 | :x:                |
 
-## Reporting a Vulnerability
+## Bir Güvenlik Açığını Bildirme
 
-We take the security of Robotex Warrior Core seriously. If you believe you have found a security vulnerability, please report it to us as described below.
+Robotex Warrior Core'un güvenliğini ciddiye alıyoruz. Bir güvenlik açığı bulduğunuzu düşünüyorsanız, lütfen aşağıda açıklandığı gibi bize bildirin.
 
-**Please do not report security vulnerabilities through public GitHub issues.**
+**Lütfen güvenlik açıklarını kamuya açık GitHub sorunları (Issues) üzerinden bildirmeyin.**
 
-Instead, please send an email to [INSERT EMAIL ADDRESS].
+Bunun yerine, lütfen [E-POSTA ADRESİNİ BURAYA EKLE] adresine bir e-posta gönderin.
 
-Please include:
-- A description of the vulnerability.
-- Steps to reproduce the issue.
-- Potential impact of the vulnerability.
+Lütfen şunları ekleyin:
+- Güvenlik açığının açıklaması.
+- Sorunu yeniden oluşturmak için adımlar.
+- Güvenlik açığının potansiyel etkisi.
 
-We will acknowledge receipt of your report within 48 hours and provide a timeline for a fix if applicable.
+Raporunuzun alındığını 48 saat içinde onaylayacağız ve varsa bir düzeltme için zaman çizelgesi sunacağız.

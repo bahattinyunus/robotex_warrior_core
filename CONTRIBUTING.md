@@ -1,68 +1,65 @@
-# Contributing to Robotex Warrior Core
+# Robotex Warrior Core'a Katkıda Bulunma
 
-First off, thanks for taking the time to contribute! 🎉
+Öncelikle, katkıda bulunmak için zaman ayırdığınız için teşekkürler! 🎉
 
-The following is a set of guidelines for contributing to Robotex Warrior Core and its packages. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+Aşağıdaki metin, Robotex Warrior Core ve paketlerine katkıda bulunmak için bir dizi kılavuz içermektedir. Bunlar kural değil, çoğunlukla önerilerdir. En iyi muhakemenizi kullanın ve bir pull request ile bu belgede değişiklikler önermekten çekinmeyin.
 
-## Code of Conduct
+## Davranış Kuralları
 
-This project and everyone participating in it is governed by the
-[Robotex Warrior Code of Conduct](CODE_OF_CONDUCT.md).
-By participating, you are expected to uphold this code. Please report unacceptable behavior
-to the project maintainers.
+Bu proje ve projeye katılan herkes [Robotex Warrior Davranış Kuralları](CODE_OF_CONDUCT.md) ile yönetilmektedir. Katılarak bu kurallara uymanız beklenmektedir. Lütfen kabul edilemez davranışları proje yöneticilerine bildirin.
 
-## I Have a Question
+## Bir Sorum Var
 
-> If you want to ask a question, we assume that you have read the available [Documentation](docs/).
+> Bir soru sormak istiyorsanız, mevcut [Dokümantasyonu](docs/) okuduğunuzu varsayıyoruz.
 
-Before you ask a question, it is best to search for existing [Issues](https://github.com/bahattinyunus/robotex_warrior_core/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
+Soru sormadan önce, size yardımcı olabilecek mevcut [Sorunları (Issues)](https://github.com/bahattinyunus/robotex_warrior_core/issues) aramanız en iyisidir. Uygun bir sorun bulmanıza rağmen hala açıklamaya ihtiyacınız varsa, sorunuzu bu sorunun altına yazabilirsiniz. Ayrıca önce internette cevap aramanız tavsiye edilir.
 
-## How Can I Contribute?
+## Nasıl Katkıda Bulunabilirim?
 
-### Reporting Bugs
+### Hata Bildirme
 
-This section guides you through submitting a bug report for Robotex Warrior Core. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
+Bu bölüm, Robotex Warrior Core için bir hata raporu göndermeniz konusunda size rehberlik eder. Bu kılavuzlara uymak, yöneticilerin ve topluluğun raporunuzu anlamasına, davranışı yeniden üretmesine ve ilgili raporları bulmasına yardımcı olur.
 
-- **Use a clear and descriptive title** for the issue to identify the problem.
-- **Describe the exact steps to reproduce the problem** in as many details as possible.
-- **Provide specific examples to demonstrate the steps**. Include copy/pasteable snippets, which you use in those examples.
+- Sorunu tanımlamak için anlaılır ve açıklayıcı bir **başlık kullanın**.
+- Sorunu yeniden oluşturmak için **izlenmesi gereken tam adımları** mümkün olduğunca detaylı bir şekilde açıklayın.
+- Adımları göstermek için **belirli örnekler verin**. Bu örneklerde kullandığınız kopyalanabilir kod parçacıklarını ekleyin.
 
-### Suggesting Enhancements
+### Geliştirme Önerileri
 
-This section guides you through submitting an enhancement suggestion, including completely new features and minor improvements to existing functionality.
+Bu bölüm, tamamen yeni özellikler ve mevcut işlevsellikteki küçük iyileştirmeler dahil olmak üzere bir geliştirme önerisi göndermeniz konusunda size rehberlik eder.
 
-- **Use a clear and descriptive title** for the issue to identify the suggestion.
-- **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
-- **Explain why this enhancement would be useful** to most Robotex Warrior Core users.
+- Öneriyi tanımlamak için anlaşılır ve açıklayıcı bir **başlık kullanın**.
+- Önerilen geliştirmenin **adım adım açıklamasını** mümkün olduğunca detaylı bir şekilde verin.
+- Bu geliştirmenin çoğu Robotex Warrior Core kullanıcısı için **neden yararlı olacağını** açıklayın.
 
-### Pull Requests
+### Pull Request'ler
 
-The process described here has several goals:
+Burada açıklanan sürecin birkaç amacı vardır:
 
-- Maintain Robotex Warrior Core's quality
-- Fix problems that are important to users
-- Engage the community in working toward the best possible Robotex Warrior Core
+- Robotex Warrior Core'un kalitesini korumak
+- Kullanıcılar için önemli olan sorunları çözmek
+- Topluluğun en iyi Robotex Warrior Core için çalışmasını sağlamak
 
-Please follow these steps to have your contribution considered by the maintainers:
+Değişikliklerinizin yöneticiler tarafından değerlendirilmesi için lütfen şu adımları izleyin:
 
-1. Follow all instructions in [the template](.github/PULL_REQUEST_TEMPLATE.md)
-2. Follow the [styleguides](#styleguides)
-3. After you submit your pull request, compare it to the existing code
-4. Check whether your changes pass the build on your local machine
+1. [Şablondaki](.github/PULL_REQUEST_TEMPLATE.md) tüm talimatları izleyin.
+2. [Yazım kurallarına](#yazim-kurallari) uyun.
+3. Pull request'inizi gönderdikten sonra mevcut kodla karşılaştırın.
+4. Değişikliklerinizin yerel makinenizde derlenip derlenmediğini kontrol edin.
 
-## Styleguides
+## Yazım Kuralları
 
-### Git Commit Messages
+### Git Commit Mesajları
 
-* Use the present tense ("Add feature" not "Added feature")
-* Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
-* Limit the first line to 72 characters or less
-* Reference issues and pull requests liberally after the first line
+* Şimdiki zamanı kullanın ("Add feature", "Değişiklik yapıldı" değil "Özelliği ekle")
+* Emir kipi kullanın ("İmleci şuraya taşı...", "İmleci taşır" değil)
+* İlk satırı 72 karakter veya daha azıyla sınırlayın
+* İlk satırdan sonra sorunlara ve pull request'lere sıkça atıfta bulunun
 
-### Coding Style
+### Kod Yazım Stili
 
-* Follow standard C++14/17 conventions for core modules.
-* Follow PEP 8 for Python scripts.
-* Document new code with Doxygen-style comments.
+* Çekirdek modüller için standart C++14/17 kurallarını izleyin.
+* Python betikleri için PEP 8'i izleyin.
+* Yeni kodu Doxygen tarzı yorumlarla belgeleyin.
 
-Thank you for your contribution!
+Katkılarınız için teşekkür ederiz!

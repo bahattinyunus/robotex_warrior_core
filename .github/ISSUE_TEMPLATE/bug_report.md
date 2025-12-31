@@ -1,32 +1,32 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Hata bildirimi
+about: Geliştirmemize yardımcı olacak bir rapor oluşturun
 title: ''
 labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Hatanın açıklaması**
+Hatanın ne olduğuna dair net ve kısa bir açıklama.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Yeniden oluşturma**
+Hatayı yeniden oluşturmak için adımlar:
+1. '...' adresine gidin
+2. '....' üzerine tıklayın
+3. '....' kısmına kaydırın
+4. Hatayı görün
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Beklenen davranış**
+Ne olmasını beklediğinize dair net ve kısa bir açıklama.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Ekran Görüntüleri**
+Varsa, sorununuzu açıklamanıza yardımcı olacak ekran görüntüleri ekleyin.
 
-**Environment (please complete the following information):**
- - OS: [e.g. Ubuntu 22.04]
- - ROS Version: [e.g. Humble]
- - Core Version: [e.g. 1.0.1]
+**Ortam (lütfen aşağıdaki bilgileri tamamlayın):**
+ - İşletim Sistemi: [örn. Ubuntu 22.04]
+ - ROS Sürümü: [örn. Humble]
+ - Çekirdek Sürümü: [örn. 1.0.1]
 
-**Additional context**
-Add any other context about the problem here.
+**Ek bağlam**
+Buraya sorunla ilgili diğer bağlamları ekleyin.

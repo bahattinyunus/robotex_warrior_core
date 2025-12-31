@@ -1,20 +1,20 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Özellik isteği
+about: Bu proje için bir fikir önerin
 title: ''
 labels: enhancement
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Özellik isteğiniz bir sorunla mı ilgili? Lütfen açıklayın.**
+Sorunun ne olduğuna dair net ve kısa bir açıklama. Örn. [...] olduğunda her zaman hüsrana uğruyorum.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**İstediğiniz çözümü açıklayın**
+Ne olmasını istediğinize dair net ve kısa bir açıklama.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Düşündüğünüz alternatifleri açıklayın**
+Düşündüğünüz alternatif çözümlerin veya özelliklerin net ve kısa bir açıklaması.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Ek bağlam**
+Buraya özellik isteğiyle ilgili diğer bağlamları veya ekran görüntülerini ekleyin.
